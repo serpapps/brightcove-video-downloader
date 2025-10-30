@@ -1,0 +1,2 @@
+# brightcove-video-downloader
+Download brightcove videos to your computer so you can watch them offline and have safe backups
